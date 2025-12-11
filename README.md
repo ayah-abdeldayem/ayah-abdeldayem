@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ayah-abdeldayem
-- 👀 I’m interested in cybersecurity
-- 📫 How to reach me linkedln (ayah abdeldayem)
+𓏲 ࣪˖♡𓂃 🧝🏼‍♀️
 
 <!---
 ayah-abdeldayem/ayah-abdeldayem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
