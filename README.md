@@ -26,10 +26,6 @@ I love blending cybersecurity, software engineering, entrepreneurship, and desig
 * **Bluegrass Holiday Lights** – a small Lexington service project + web app.
 ---
 
-### 🧠 Coming up:
-
-* More ML / cybersecurity tooling for AFO Cyber.
-
 
 <!---
 ayah-abdeldayem/ayah-abdeldayem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
