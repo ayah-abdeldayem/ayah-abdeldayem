@@ -11,7 +11,7 @@ I love blending cybersecurity, software engineering, entrepreneurship, and desig
 
 ---
 
-### 🔗 Currently working on:
+### Currently working on:
 
 * **AFO Cyber** – scam detection tooling, senior-center education, and consumer protection.
 * **Automation @ UK ITS** – Splunk dashboards, Azure Sentinel connectors, threat intel automations.
