@@ -26,7 +26,7 @@ I love blending cybersecurity, software engineering, entrepreneurship, and desig
 * **Bluegrass Holiday Lights** – a small Lexington service project + web app.
 ---
 
-
+![](https://hit.yhype.me/github/profile?account_id=134184539)
 <!---
 ayah-abdeldayem/ayah-abdeldayem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
