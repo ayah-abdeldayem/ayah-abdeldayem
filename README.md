@@ -15,16 +15,15 @@ I love blending cybersecurity, software engineering, entrepreneurship, and desig
 
 * **AFO Cyber** – scam detection tooling, senior-center education, and consumer protection.
 * **Automation @ UK ITS** – Splunk dashboards, Azure Sentinel connectors, threat intel automations.
-* **Bluegrass Holiday Lights** – a small Lexington service project + web app.
-* **CS498 Skin Analyzer Prototype** – AI skin analysis + quiz engine + PDF routine generator.
-
+* **ELLOW** - A wearable smart monitoring system that tracks HR/O2 levels in real time and alerts caregivers instantly when something’s not right.
 ---
 
 ### ✅ Just finished:
 
 * Building multiple Splunk dashboards for leaked credentials, security event mapping, and Enzoic exposures.
 * A FastAPI + Azure Functions pipeline for security alert enrichment.
-
+* **CS498 Skin Analyzer Prototype** – AI skin analysis + quiz engine + PDF routine generator.
+* **Bluegrass Holiday Lights** – a small Lexington service project + web app.
 ---
 
 ### 🧠 Coming up:
