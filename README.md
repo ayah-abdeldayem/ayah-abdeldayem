@@ -3,7 +3,7 @@
 
 HEY!, I'm **Ayah Abdeldayem**.
 
-I'm a Computer Science student at the University of Kentucky, balancing school with building startups, doing cybersecurity engineering work, and creating cool projects that actually help people. I currently work as a **Cybersecurity Engineer at UK Information Technology Services**, a ** Previous Cybersecurity Intern at Lexmark**.
+I'm a Computer Science student at the University of Kentucky, balancing school with building startups, doing cybersecurity engineering work, and creating cool projects that actually help people. I currently work as a **Cybersecurity Engineer at UK Information Technology Services**, a **Previous Cybersecurity Intern at Lexmark**.
 
 I'm also the co-founder and CEO of **AFO Cyber, LLC**, a scam-detection and consumer-protection startup that won multiple pitch competitions and pre-seed funding.
 
