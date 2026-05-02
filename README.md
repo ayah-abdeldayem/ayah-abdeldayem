@@ -15,7 +15,6 @@ I love blending cybersecurity, software engineering, entrepreneurship, and desig
 
 * **AFO Cyber** – scam detection tooling, senior-center education, and consumer protection.
 * **Automation @ UK ITS** – Splunk dashboards, Azure Sentinel connectors, threat intel automations.
-* **ELLOW** - A wearable smart monitoring system that tracks HR/O2 levels in real time and alerts caregivers instantly when something’s not right.
 ---
 
 ### ✅ Just finished:
@@ -24,6 +23,8 @@ I love blending cybersecurity, software engineering, entrepreneurship, and desig
 * A FastAPI + Azure Functions pipeline for security alert enrichment.
 * **CS498 Skin Analyzer Prototype** – AI skin analysis + quiz engine + PDF routine generator.
 * **Bluegrass Holiday Lights** – a small Lexington service project + web app.
+* * **ELLOW** - A wearable smart monitoring system that tracks HR/O2 levels in real time and alerts caregivers instantly when something’s not right.
+* A real time app registration automation audit in Azure 
 ---
 
 <!---
